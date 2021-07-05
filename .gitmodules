@@ -1,0 +1,3 @@
+[submodule "src/component_share"]
+	path = src/component_share
+	url = https://github.com/JiangXue93/git_submodule_share.git
